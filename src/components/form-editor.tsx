@@ -1,4 +1,3 @@
-// import { addPerson } from "../actions/person";
 import { addPerson } from "@/app/actions/person";
 import SubmitButton from "./submit-button";
 

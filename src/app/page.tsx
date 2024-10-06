@@ -1,5 +1,4 @@
 import { sql } from "@vercel/postgres";
-import { addPerson } from "./actions/person";
 import RemoveButton from "@/components/remove-button";
 import FormEditor from "@/components/form-editor";
 
